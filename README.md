@@ -75,6 +75,16 @@ The dataset contains retail product and outlet information, including:
 * Sales by Location Tier
 * Business Insights and Recommendations
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Product Intelligence
+![Product Intelligence](screenshots/product_intelligence.png)
+
+### Outlet Performance & Business Insights
+![Outlet Performance](screenshots/outlet_performance.png)
 ---
 
 ## Key Insights
