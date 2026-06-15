@@ -80,10 +80,10 @@ The dataset contains retail product and outlet information, including:
 ### Executive Overview
 ![Executive Overview](screenshots/page_1.png)
 
-##Product Intelligence
+## Product Intelligence
 ![Product Intelligence](screenshots/page_2.png)
 
-##Outlet Performance
+## Outlet Performance
 ![Outlet Performance](screenshots/page_3.png)
 
 ## Key Insights
